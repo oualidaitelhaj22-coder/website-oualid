@@ -1,0 +1,5 @@
+{
+  "name": "AI Domain Appraiser",
+  "description": "An intelligent web application that provides instant domain name appraisals, suggests alternatives, and offers detailed valuation analysis using the power of Google's Gemini AI.",
+  "requestFramePermissions": []
+}
